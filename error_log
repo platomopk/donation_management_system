@@ -1,0 +1,24 @@
+[04-May-2018 14:22:29 UTC] PHP Notice:  Undefined index: type in /home/oop2rpwc2ycj/public_html/dms/dashboard.php on line 10
+[04-May-2018 14:22:29 UTC] PHP Notice:  Undefined index: name in /home/oop2rpwc2ycj/public_html/dms/dashboard.php on line 177
+[06-May-2018 09:58:23 UTC] PHP Notice:  Undefined index: createdon in /home/oop2rpwc2ycj/public_html/dms/createhide.php on line 12
+[06-May-2018 09:59:25 UTC] PHP Notice:  Undefined index: createdon in /home/oop2rpwc2ycj/public_html/dms/createhide.php on line 12
+[06-May-2018 11:03:10 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/oop2rpwc2ycj/public_html/dms/search.php on line 10
+[06-May-2018 11:03:13 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/oop2rpwc2ycj/public_html/dms/search.php on line 10
+[06-May-2018 11:03:14 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/oop2rpwc2ycj/public_html/dms/search.php on line 10
+[06-May-2018 11:21:19 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/oop2rpwc2ycj/public_html/dms/getallcampaignssearch.php on line 7
+[06-May-2018 11:22:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oop2rpwc2ycj/public_html/dms/getallcampaignssearch.php on line 23
+[06-May-2018 11:22:59 UTC] PHP Parse error:  syntax error, unexpected '$q' (T_VARIABLE), expecting ',' or ')' in /home/oop2rpwc2ycj/public_html/dms/getallcampaignssearch.php on line 11
+[06-May-2018 11:23:43 UTC] PHP Parse error:  syntax error, unexpected '$q' (T_VARIABLE), expecting ',' or ')' in /home/oop2rpwc2ycj/public_html/dms/getallcampaignssearch.php on line 11
+[06-May-2018 11:24:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oop2rpwc2ycj/public_html/dms/getallcampaignssearch.php on line 23
+[15-May-2018 06:42:17 UTC] PHP Notice:  Undefined index: type in /home/oop2rpwc2ycj/public_html/dms/createnewdonation.php on line 6
+[15-May-2018 06:42:17 UTC] PHP Notice:  Undefined index: id in /home/oop2rpwc2ycj/public_html/dms/createnewdonation.php on line 327
+[15-May-2018 16:04:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ecit() in /home/oop2rpwc2ycj/public_html/dms/easycreate.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/oop2rpwc2ycj/public_html/dms/easycreate.php on line 18
+[18-May-2018 04:15:52 UTC] PHP Notice:  Undefined index: type in /home/oop2rpwc2ycj/public_html/dms/createnewdonation.php on line 6
+[18-May-2018 04:15:52 UTC] PHP Notice:  Undefined index: name in /home/oop2rpwc2ycj/public_html/dms/header.php on line 10
+[18-May-2018 04:15:52 UTC] PHP Notice:  Undefined index: id in /home/oop2rpwc2ycj/public_html/dms/createnewdonation.php on line 330
+[22-May-2018 06:35:30 UTC] PHP Notice:  Undefined index: type in /home/oop2rpwc2ycj/public_html/dms/createnewdonation.php on line 6
+[22-May-2018 06:35:30 UTC] PHP Notice:  Undefined index: name in /home/oop2rpwc2ycj/public_html/dms/header.php on line 10
+[22-May-2018 06:35:30 UTC] PHP Notice:  Undefined index: id in /home/oop2rpwc2ycj/public_html/dms/createnewdonation.php on line 330
